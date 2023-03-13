@@ -1,0 +1,10 @@
+C:\im\Currency-Modeling-Lab2-master\im2_maryasov\bin\Debug\currencyModeling.exe.config
+C:\im\Currency-Modeling-Lab2-master\im2_maryasov\bin\Debug\currencyModeling.exe
+C:\im\Currency-Modeling-Lab2-master\im2_maryasov\bin\Debug\currencyModeling.pdb
+C:\im\Currency-Modeling-Lab2-master\im2_maryasov\obj\Debug\im2_maryasov.csproj.AssemblyReference.cache
+C:\im\Currency-Modeling-Lab2-master\im2_maryasov\obj\Debug\im2.Form1.resources
+C:\im\Currency-Modeling-Lab2-master\im2_maryasov\obj\Debug\currencyModeling.Properties.Resources.resources
+C:\im\Currency-Modeling-Lab2-master\im2_maryasov\obj\Debug\im2_maryasov.csproj.GenerateResource.cache
+C:\im\Currency-Modeling-Lab2-master\im2_maryasov\obj\Debug\im2_maryasov.csproj.CoreCompileInputs.cache
+C:\im\Currency-Modeling-Lab2-master\im2_maryasov\obj\Debug\currencyModeling.exe
+C:\im\Currency-Modeling-Lab2-master\im2_maryasov\obj\Debug\currencyModeling.pdb
